@@ -1,0 +1,13 @@
+h1 {
+    font-family: 'Saira Extra Condensed',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji';
+    font-size: 80px;
+}
+
+.about-section {
+    padding-left: 100px;
+    max-width: 800px;
+}
+
+.last_name {
+    color: #9999ff;
+}
