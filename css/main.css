@@ -4,6 +4,7 @@ h1 {
     text-transform: uppercase;
     font-weight: 700;
     color: #343a40;
+    line-height: 35px;
 }
 
 .about-section {
