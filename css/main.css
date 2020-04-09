@@ -26,3 +26,7 @@ h1 {
 body {
     color: #868e96;
 }
+
+.mb-40 {
+    margin-bottom: 40px;
+}
