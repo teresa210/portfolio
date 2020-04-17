@@ -1,10 +1,17 @@
 h1 {
-    font-family: 'Saira Extra Condensed',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji';
     font-size: 96px;
+    line-height: 35px;
+}
+
+h2 {
+    font-size: 56px;
+}
+
+h1, h2 {
+    font-family: 'Saira Extra Condensed',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji';
     text-transform: uppercase;
     font-weight: 700;
     color: #343a40;
-    line-height: 35px;
 }
 
 .about-section {
@@ -48,3 +55,5 @@ hr {
     border: 0;
     border-top: 1px solid rgba(0,0,0,.1);
 }
+
+
