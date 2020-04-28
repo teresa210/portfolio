@@ -19,7 +19,6 @@ h1, h2, h3{
 }
 
 .about-section {
-    padding-left: 100px;
     max-width: 1200px;
     padding-top: 48px;
     padding-bottom: 48px;
@@ -39,6 +38,8 @@ h1, h2, h3{
 body {
     color: #868e96;
     padding-left: 278px;
+    font-family: Muli,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji';
+    line-height: 1.5;
 }
 
 .mb-40 {
@@ -50,9 +51,8 @@ body {
 }
 
 .lead {
-    font-size: 17px;
-    font-weight: 400;
-    font-family: Muli,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji';
+    font-size: 16px;
+    font-weight: 400; 
 }
 
 hr {
