@@ -74,4 +74,17 @@ hr {
     text-align: right;
 }
 
+.resume-content {
+    float: left;
+    width: 816px;
+}
+
+.mt-0 {
+    margin-top: 0;
+}
+
+.padding-49 {
+    padding: 48px;
+}
+
 
