@@ -68,4 +68,10 @@ hr {
     color: #9999ff;
 }
 
+.resume-date {
+    float: right;
+    width: 199px;
+    text-align: right;
+}
+
 
