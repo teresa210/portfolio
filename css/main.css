@@ -87,4 +87,7 @@ hr {
     padding: 49px;
 }
 
+.resume-item {
+    min-height: 220px;
+}
 
