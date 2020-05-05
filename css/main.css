@@ -18,7 +18,7 @@ h1, h2, h3{
     color: #343a40;
 }
 
-.about-section {
+.about-section, .education {
     max-width: 1200px;
     padding-top: 48px;
     padding-bottom: 48px;
