@@ -91,3 +91,8 @@ hr {
     min-height: 220px;
 }
 
+.list-inline {
+    padding-left: 0px;
+    list-style: none;
+}
+
