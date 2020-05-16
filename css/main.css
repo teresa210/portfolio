@@ -96,6 +96,10 @@ hr {
     list-style: none;
 }
 
+.list-inline i:hover{
+    background-color: #9999ff;
+}
+
 .list-inline-item {
     display: inline-block;
     margin-right: 8px;
@@ -124,6 +128,6 @@ hr {
     background-color: #9999ff;
 }
 
-.dev-icons {
+.dev-icons{
     font-size: 48px;
 }
