@@ -123,3 +123,7 @@ hr {
 .social-icons a:hover {
     background-color: #9999ff;
 }
+
+.dev-icons {
+    font-size: 48px;
+}
