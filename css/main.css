@@ -88,12 +88,16 @@ hr {
 }
 
 .resume-item {
-    min-height: 220px;
+    min-height: 260px;
 }
 
 .list-inline {
     padding-left: 0px;
     list-style: none;
+}
+
+.list-inline i:hover{
+    background-color: #9999ff;
 }
 
 .list-inline-item {
@@ -122,4 +126,8 @@ hr {
 
 .social-icons a:hover {
     background-color: #9999ff;
+}
+
+.dev-icons{
+    font-size: 48px;
 }
